@@ -1,0 +1,16 @@
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\bin\Debug\net6.0-windows\213001_snip1.exe
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\bin\Debug\net6.0-windows\213001_snip1.deps.json
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\bin\Debug\net6.0-windows\213001_snip1.runtimeconfig.json
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\bin\Debug\net6.0-windows\213001_snip1.dll
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\bin\Debug\net6.0-windows\213001_snip1.pdb
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\_213001_snip1.Form1.resources
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\213001_snip1.csproj.GenerateResource.cache
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\213001_snip1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\213001_snip1.AssemblyInfoInputs.cache
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\213001_snip1.AssemblyInfo.cs
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\213001_snip1.csproj.CoreCompileInputs.cache
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\213001_snip1.dll
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\refint\213001_snip1.dll
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\213001_snip1.pdb
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\213001_snip1.genruntimeconfig.cache
+C:\Users\ANC\source\repos\213001_WInForm\213001_snip1\obj\Debug\net6.0-windows\ref\213001_snip1.dll
